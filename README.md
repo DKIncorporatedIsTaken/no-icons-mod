@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# No Icons Mod
 
 ## Purpose
 
