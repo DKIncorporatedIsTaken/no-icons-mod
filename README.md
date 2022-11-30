@@ -1,9 +1,9 @@
 # Fabric Example Mod
 
-## Setup
+## Purpose
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod removes the application icon, which allows to launch Minecraft using pure wayland
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+See LICENSE.md
