@@ -9,12 +9,12 @@
     "DK Incorporated"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/DKIncorporatedIsTaken/no-icons-mod"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/noiconsmod/icon.png",
+  "license": "MIT",
+  "icon": "assets/noiconsmod/logo.png",
 
   "environment": "*",
   "entrypoints": {
